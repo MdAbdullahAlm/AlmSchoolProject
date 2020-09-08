@@ -1,2 +1,2 @@
-# AlmSchoolProject
+# AlmSchool
 Parsonal
